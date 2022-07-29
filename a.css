@@ -1,3 +1,9 @@
-/* .ahmed{
-    margin: 100px;
-} */
+body{
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+}
+.head-1{
+    flex: 1;
+    background-color: rgb(165, 243, 134);
+}
